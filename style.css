@@ -1,0 +1,62 @@
+.font1	{ color: #000000; font-family: Arial; font-size: 8pt; }
+
+input		{ color: #000000; font-family: Arial; font-size: 10pt; }
+input.yes		{ color: lightgreen; }
+input.no		{ color: red; }
+input.wide	{ width:100%; }
+input.add		{ background-color: lightgreen; vertical-align:top; text-align: center; height:12px; width:12px; }
+input.block	{ background-color: red; vertical-align:top; text-align: center; height:12px; width:12px; }
+input.del   { background-color: red; font-weight:bold; }
+input.roster  { width:80px; }
+input.player  { width:200px; }
+input.btn     { width:20px; height:18px; background-color: yellow; font-size:8pt; }
+input.btnw    { width:40px; height:18px; background-color: white; font-size:8pt; }
+input.center  { text-align: center; }
+input.avail { background-color: lightgreen; width: 90px; height: 25px; }
+	
+table.norm  { background-color: black; border-collapse: collapse; }
+table.print { background-color: black; border-collapse: collapse; page-break-before: always; }
+table.popup	{ font-size:9px; }
+
+h2.red			{ color: red; }
+
+th.norm     { background-color: lightblue;  border: 1px solid #000000; }
+th.normc    { background-color: lightblue;  text-align:center; border: 1px solid #000000; }
+th.normw    { background-color: lightblue;  border: 1px solid #000000; width:400px }
+th.month    { text-align:center; background-color:white; font-size:18px; line-height:24px; }
+th.norms    { background-color: lightblue; text-align:center; width:40px; border: 1px solid #000000; }
+th.rpt1     { background-color: lightblue;  border: 1px solid #000000; vertical-align: middle; font-size:24px; }
+th.rpt2     { background-color: lightblue; text-align:center; border: 1px solid #000000; width:25px; }
+th.date     { background-color: lightblue;  border: 1px solid #000000; }
+
+td.norm     { background-color: white; text-align:left; border: 1px solid #000000; }
+td.normr    { background-color: white; text-align:right; border: 1px solid #000000; }
+td.sub      { background-color: white; text-align:left; border: 1px solid #000000; width:500px;}
+td.normb    { background-color: lightblue; text-align:left; border: 1px solid #000000; }
+td.normbc   { background-color: lightblue; text-align:center; border: 1px solid #000000; }
+td.normg    { background-color: lightgreen; text-align:center; border: 1px solid #000000; }
+td.normt    { background-color: orange; text-align:center; border: 1px solid #000000; }
+td.normc    { background-color: white; text-align:center; border: 1px solid #000000; }
+td.normcw   { background-color: yellow; text-align:center; border: 1px solid #000000; }
+td.date			{ height:110px; width:110px; background-color:white; vertical-align:top; }
+td.datex		{ height:110px; width:110px; background-color:#f0f0f0; vertical-align:top; }
+td.dateh		{ height:110px; width:110px; background-color:#ccffcc; vertical-align:top; }
+td.dow			{ text-align:center; font-weight:bold; background-color:#29548a; color:white; }
+td.y				{ background-color: lightgreen; }
+td.n				{ background-color: red; }
+td.blocked	{ height:110px; width:110px; background-color:#999999; vertical-align:top; }
+td.hdr    	{ border: 1px solid #000000; text-align:center; background-color:white; font-size:24px; line-height:28px; }
+td.popc     { text-align:center; }
+td.norms    { background-color: white; text-align:center; width:40px; border: 1px solid #000000; }
+td.price		{ background-color: white; text-align:center; width:80px; border: 1px solid #000000; }
+td.accessg  { background-color: lightgreen; text-align:center; border: 1px solid #000000; width:80px; }
+td.accessr  { background-color: red; text-align:center; border: 1px solid #000000; width:80px; }
+td.rsvpy    { width: 20px; height:18px; background-color: lightgreen; border: 1px solid #000000; text-align:center; }
+td.rsvpn    { width: 20px; height:18px; background-color: red; border: 1px solid #000000; text-align:center; }
+td.rsvp     { width: 20px; height:18px; background-color: white; border: 1px solid #000000; text-align:center; }
+td.game     { background-color: #ffffff; border: 1px solid #000000; height: 25px; text-align: center; }
+
+td.rpt1     { background-color: white; text-align:center; border: 1px solid #000000; width:25px; }
+td.rpt2     { background-color: white; text-align:right; border: 1px solid #000000; width:25px; }
+
+li.red			{ color: red; }
